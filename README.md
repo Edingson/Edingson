@@ -7,8 +7,6 @@ I'm a Bachelor of Computer Applications (BCA) student passionate about software 
 - 💬 Ask me about anything related to programming or tech, and I'd be happy to help.
 - 📫 How to reach me: edingsonkalwing12@gmail.com.
 
-You can explore more of my work by visiting (https://github.com/your-edingson).
-
 ## Skills
 
 - Programming languages: c/c++,java,python,js,html/css,php.
